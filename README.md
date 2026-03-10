@@ -1,6 +1,3 @@
-Since your repository name is **SmartCarPrice-Predictor**, here is a **clean and professional README.md** tailored for your GitHub repo.
-
----
 
 # 🚗 SmartCarPrice-Predictor
 
@@ -143,11 +140,5 @@ Data Science Learner
 🔗 GitHub
 🔗 Kaggle
 
----
 
-If you want, I can also help you create **3 things that make your repo look much more professional**:
-
-* ⭐ A **GitHub banner image for the repo**
-* 📷 **Screenshots section in README (very important for recruiters)**
-* 🧾 **requirements.txt file for this project**.
 
